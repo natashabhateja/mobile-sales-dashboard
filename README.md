@@ -31,16 +31,17 @@ This dashboard is designed for sales managers, analysts, and decision-makers to:
 - Optimize product, payment, and marketing strategies based on actionable insights.
 
 ## Dashboard Preview
-> ![Dashboard](images/dashboard.png)
+> ![Dashboard](previews/dashboard.png)
 
 ## 📁 Files Included
 - `Mobile_Sales_Dashboard.pbix` – Main Power BI file
-- `README.md` – Project documentation
 - `previews/` – Folder for dashboard previews
 - `data/` - Folder for data source file
+- `README.md` – Project documentation
+- `LICENSE` - License file
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](./LICENSE).
 
 ## 📬 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via GitHub for collaboration or feedback.
